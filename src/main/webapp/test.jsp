@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	깃허브용 연습파일
+	깃허브용 연습파일 
 </body>
 </html>
